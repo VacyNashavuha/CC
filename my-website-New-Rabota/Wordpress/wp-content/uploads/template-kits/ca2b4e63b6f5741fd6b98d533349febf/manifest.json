@@ -1,0 +1,747 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Orion - IT Consultation Elementor Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo2.eightheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "HFB - Header",
+            "screenshot": "screenshots\/hfb-header.jpg",
+            "source": "templates\/hfb-header.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/hfb-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "HFB - Footer",
+            "screenshot": "screenshots\/hfb-footer.jpg",
+            "source": "templates\/hfb-footer.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/hfb-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform - Quote Form",
+            "screenshot": "screenshots\/metform-quote-form.jpg",
+            "source": "templates\/metform-quote-form.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/metform-quote-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform - Newsletter",
+            "screenshot": "screenshots\/metform-newsletter.jpg",
+            "source": "templates\/metform-newsletter.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/metform-newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform - Contact Form",
+            "screenshot": "screenshots\/metform-contact-form.jpg",
+            "source": "templates\/metform-contact-form.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/metform-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Orion - Testimonial Block",
+            "screenshot": "screenshots\/orion-testimonial-block.jpg",
+            "source": "templates\/orion-testimonial-block.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/orion-testimonial-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Orion - Hero Block",
+            "screenshot": "screenshots\/orion-hero-block.jpg",
+            "source": "templates\/orion-hero-block.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/orion-hero-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Page",
+            "screenshot": "screenshots\/about-page.jpg",
+            "source": "templates\/about-page.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/about-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Page",
+            "screenshot": "screenshots\/service-page.jpg",
+            "source": "templates\/service-page.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/service-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Page",
+            "screenshot": "screenshots\/portfolio-page.jpg",
+            "source": "templates\/portfolio-page.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/portfolio-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Archive News",
+            "screenshot": "screenshots\/archive-news.jpg",
+            "source": "templates\/archive-news.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/archive-news\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single News",
+            "screenshot": "screenshots\/single-news.jpg",
+            "source": "templates\/single-news.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/single-news\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Page",
+            "screenshot": "screenshots\/contact-page.jpg",
+            "source": "templates\/contact-page.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/contact-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single 404",
+            "screenshot": "screenshots\/single-404.jpg",
+            "source": "templates\/single-404.json",
+            "preview_url": "https:\/\/demo2.eightheme.com\/orion\/template-kit\/single-404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.10.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.13",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Happy Elementor Addons",
+            "version": "3.8.2",
+            "file": "happy-elementor-addons\/plugin.php",
+            "author": "weDevs"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.7.2",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.9.47",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        }
+    ],
+    "images": [
+        {
+            "filename": "telephone.png",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/telephone.png",
+            "templates": [
+                {
+                    "source": "templates\/hfb-footer.json",
+                    "name": "HFB - Footer"
+                }
+            ],
+            "filesize": 9480,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/telephone_159832?term=phone&page=1&position=7&origin=search&related_id=159832"
+        },
+        {
+            "filename": "Avatar.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/Avatar.jpg",
+            "templates": [
+                {
+                    "source": "templates\/orion-testimonial-block.json",
+                    "name": "Orion - Testimonial Block"
+                }
+            ],
+            "filesize": 53504,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-standing-in-office-BRG6VDM"
+        },
+        {
+            "filename": "4.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/4-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/orion-hero-block.json",
+                    "name": "Orion - Hero Block"
+                }
+            ],
+            "filesize": 116908,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmer-working-in-a-software-developing-compan-4FL9Q33"
+        },
+        {
+            "filename": "6.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/6-800x963.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 152207,
+            "dimensions": [
+                1523,
+                1834
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-software-developer-at-workplace-Z72GD5H"
+        },
+        {
+            "filename": "7.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/7-800x963.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 246179,
+            "dimensions": [
+                1523,
+                1834
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-programmers-and-it-software-developers-team--8RXBH77"
+        },
+        {
+            "filename": "web-programming.png",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/web-programming.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 37760,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_1336494"
+        },
+        {
+            "filename": "shield.png",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/shield.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 31167,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_1161490"
+        },
+        {
+            "filename": "cloud.png",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/cloud.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 62695,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/i\/_565190"
+        },
+        {
+            "filename": "8.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/8-800x904.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 141780,
+            "dimensions": [
+                1517,
+                1715
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-programmers-QS5E468"
+        },
+        {
+            "filename": "9.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/9-800x904.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 126732,
+            "dimensions": [
+                1517,
+                1715
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmer-in-office-23LDWF5"
+        },
+        {
+            "filename": "10.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/10-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 131818,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programer-coding-on-laptop-sitting-down-at-desk-wi-TELJNGA"
+        },
+        {
+            "filename": "18.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/18-800x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 117882,
+            "dimensions": [
+                1920,
+                970
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmers-cooperating-at-it-company-developing-a-4ECSYT7"
+        },
+        {
+            "filename": "11-1.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/11-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 146221,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmer-working-with-program-code-NFQBGND"
+        },
+        {
+            "filename": "26.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/26-800x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 160624,
+            "dimensions": [
+                1920,
+                970
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-programmers-and-it-software-developers-team--8RXBH77"
+        },
+        {
+            "filename": "online-support.png",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/online-support.png",
+            "templates": [
+                {
+                    "source": "templates\/service-page.json",
+                    "name": "Service Page"
+                }
+            ],
+            "filesize": 14541,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/online-support_2602465"
+        },
+        {
+            "filename": "30.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/30-800x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 114631,
+            "dimensions": [
+                1920,
+                970
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/computer-programmer-working-on-computer-J6HR6GV"
+        },
+        {
+            "filename": "13-2.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/13-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 147446,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmers-cooperating-at-it-company-developing-a-4ECSYT7"
+        },
+        {
+            "filename": "12-1.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/12-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 191858,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmer-working-in-the-office-7SMTF5F"
+        },
+        {
+            "filename": "14-2.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/14-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-page.json",
+                    "name": "Portfolio Page"
+                }
+            ],
+            "filesize": 142000,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/software-developer-at-work-38KLQJ8"
+        },
+        {
+            "filename": "33.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/33-800x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/archive-news.json",
+                    "name": "Archive News"
+                }
+            ],
+            "filesize": 94100,
+            "dimensions": [
+                1920,
+                970
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-asian-database-software-developer-writing--L7E58EZ"
+        },
+        {
+            "filename": "34.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/34-800x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-news.json",
+                    "name": "Single News"
+                },
+                {
+                    "source": "templates\/single-404.json",
+                    "name": "Single 404"
+                }
+            ],
+            "filesize": 89137,
+            "dimensions": [
+                1920,
+                970
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmer-working-in-a-software-developing-compan-CXX9WMX"
+        },
+        {
+            "filename": "37.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/37-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-news.json",
+                    "name": "Single News"
+                },
+                {
+                    "source": "templates\/single-404.json",
+                    "name": "Single 404"
+                }
+            ],
+            "filesize": 105328,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmer-working-in-a-software-developing-compan-CXX9WMX"
+        },
+        {
+            "filename": "31.jpg",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/31-800x404.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                }
+            ],
+            "filesize": 109582,
+            "dimensions": [
+                1920,
+                970
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/software-developer-at-work-38KLQJ8"
+        },
+        {
+            "filename": "36.png",
+            "thumbnail_url": "https:\/\/demo2.eightheme.com\/orion\/wp-content\/uploads\/sites\/3\/2023\/01\/36-800x179.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                }
+            ],
+            "filesize": 18986,
+            "dimensions": [
+                1393,
+                312
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

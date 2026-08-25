@@ -1,0 +1,220 @@
+[24-Oct-2023 15:09:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[24-Oct-2023 15:10:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[29-Oct-2023 13:10:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[04-Nov-2023 03:35:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[04-Nov-2023 03:36:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[09-Nov-2023 17:07:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[13-Nov-2023 07:21:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[16-Nov-2023 21:17:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[17-Nov-2023 13:23:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[17-Nov-2023 13:53:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[17-Nov-2023 19:30:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[18-Nov-2023 17:41:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[18-Nov-2023 17:41:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[19-Nov-2023 02:59:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[19-Nov-2023 02:59:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[19-Nov-2023 03:24:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[19-Nov-2023 09:24:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[25-Nov-2023 08:23:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[04-Dec-2023 02:49:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[04-Dec-2023 11:16:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[05-Dec-2023 23:48:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[06-Dec-2023 02:22:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[07-Dec-2023 14:17:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[09-Dec-2023 02:11:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[09-Dec-2023 12:16:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[18-Dec-2023 07:32:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[18-Dec-2023 07:33:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[27-Dec-2023 11:41:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[31-Dec-2023 09:58:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[31-Dec-2023 09:59:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[01-Jan-2024 17:14:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[27-Jan-2024 12:47:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[29-Jan-2024 12:21:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[31-Jan-2024 20:00:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[04-Feb-2024 17:30:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[05-Feb-2024 23:32:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[09-Feb-2024 03:51:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[13-Feb-2024 23:37:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[19-Feb-2024 16:15:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[24-Feb-2024 06:30:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[06-Apr-2024 06:30:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[06-Apr-2024 06:30:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[01-May-2024 13:45:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[30-May-2024 04:52:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[30-May-2024 19:13:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[03-Jun-2024 06:23:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[04-Jun-2024 06:40:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[06-Jun-2024 12:34:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[16-Sep-2024 05:39:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[20-Sep-2024 06:55:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[23-Sep-2024 10:15:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[27-Sep-2024 20:14:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[02-Oct-2024 07:30:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[26-Oct-2024 20:02:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
+[31-Oct-2024 05:49:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cpzhjcb5sk3v/public_html/wp-includes/blocks/index.php on line 8
